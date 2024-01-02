@@ -1,7 +1,7 @@
 package Jan_2;
 
 // Date - January 2, 2024
-// Platform - CodeChed
+// Platform - CodeChef
 // Problem Name - Interesting Subarray
 // Problem Link - https://www.codechef.com/problems/SUBARRY?tab=statement
 // Submission Link - https://www.codechef.com/viewsolution/1038049736
