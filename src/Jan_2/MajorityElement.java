@@ -1,5 +1,13 @@
+package Jan_2;
+
+// Date - January 2, 2024
+// Platform - LeetCode
+// Problem Name - Majority Element
+// Problem Link - https://leetcode.com/problems/majority-element/
+// Submission Link - https://leetcode.com/problems/majority-element/submissions/1133995922/?submissionId=1133995922
+
 import java.util.*;
-class majorityElement {
+class MajorityElement {
     public int majorityElement(int[] nums) {
         HashMap<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
