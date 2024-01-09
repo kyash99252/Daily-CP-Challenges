@@ -5,8 +5,8 @@ package Jan_2024.Week_2.Jan_9;
 // Problem Name - Poisoned Dagger
 // Problem Link - https://codeforces.com/problemset/problem/1613/C
 // Submission Link - https://codeforces.com/contest/1613/submission/240937825
-// Time Complexity - O(log(min(m, n)))
-// Space Complexity - O(1)
+// Time Complexity - O(nlogh)
+// Space Complexity - O(n)
 
 import java.util.Scanner;
 
