@@ -1,5 +1,13 @@
 package Jan_2024.Week_2.Jan_11;
 
+// Date - January 11, 2024
+// Platform - CodeForces
+// Problem Name - Kuroni and Simple Strings
+// Problem Link - https://codeforces.com/contest/1305/problem/B
+// Submission Link - https://codeforces.com/contest/1305/submission/241142711
+// Time Complexity - O(nlogn)
+// Space Complexity - O(n)
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
