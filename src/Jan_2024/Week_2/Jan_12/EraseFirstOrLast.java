@@ -1,5 +1,13 @@
 package Jan_2024.Week_2.Jan_12;
 
+// Date - January 12, 2024
+// Platform - CodeForces
+// Problem Name - Erase First or Last Letter
+// Problem Link - https://codeforces.com/contest/1917/problem/B
+// Submission Link - https://codeforces.com/contest/1917/submission/241252758
+// Time Complexity - O(n)
+// Space Complexity - O(n)
+
 import java.util.Scanner;
 import java.util.Arrays;
 
